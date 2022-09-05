@@ -1,8 +1,6 @@
 # 💫About Me :
 💻 HI! I'm Fabio,  a software developer and tech enthusiast.
 
-‍🎓 I'm a 2nd year student pursuing Master's Degree in Computer Science. 
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabio-salamone) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12338418) 
 
